@@ -2,7 +2,7 @@
 
 An interactive teacher → student lineage tree for Kajukenbo, transcribed in full
 from the 2024 Kajukenbo Family Tree poster (Nov 2024 edition): 10,285 entries,
-10,076 verified, 13 generations, with search, show/hide branches, and a detail
+13 generations, with search, show/hide branches, and a detail
 panel tracing each person's line back to the Black Belt Society root.
 
 **Live site: https://robertmcatee.net/kajukenbo-family-tree/**
@@ -26,5 +26,8 @@ human-editable source of truth).
 ## Data notes
 Spellings follow the poster as printed. 677 branch heads (6.6%) sit under an
 "Unplaced" group because their own teacher link could not be proven from the
-poster alone — their students and sub-branches are complete. ~209 readings are
-flagged unverified with their reasons recorded, rather than guessed.
+poster alone — their students and sub-branches are complete. **All entries are
+currently marked UNVERIFIED**: the machine transcription awaits a name-by-name
+review against the poster with the owner, and entries will be marked verified
+branch by branch as that review proceeds. ~209 readings carry low-confidence
+notes with their reasons recorded, rather than guessed.

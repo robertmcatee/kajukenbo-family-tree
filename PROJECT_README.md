@@ -7,8 +7,13 @@ built-in seed data and tells you so in the status bar.
 
 Published at **https://robertmcatee.net/kajukenbo-family-tree/** (GitHub Pages repo
 `robertmcatee/kajukenbo-family-tree`). Transcribed in full from the 2024 Kajukenbo
-Family Tree poster (Nov 2024 edition): **10,285 entries, 10,076 verified**, one root,
-13 generations, 631 "also trained under" cross-links.
+Family Tree poster (Nov 2024 edition): **10,285 entries**, one root,
+13 generations, 631 "also trained under" cross-links. **Verification status:
+all entries were reset to UNVERIFIED on 2026-11-05 at the owner's direction** —
+the machine transcription has not yet been checked name-by-name against the
+poster with him, so the app claims no verified entries until that joint
+review marks them, branch by branch. (The pre-reset state is snapshotted in
+`transcription/snapshots/`.)
 
 ## What it does
 - **Family-tree view** of teacher → student lineage. Every node has a **− / + show-hide
@@ -47,8 +52,9 @@ What actually happens:
   are branch heads whose own teacher line runs across poster regions and could not
   be proven from the poster tiles alone. Their students and sub-branches are
   complete under them; only the one link upward is missing.
-- **~209 entries are unverified** — low-confidence readings (split columns, tile-edge
-  fragments), each with the reason in its notes rather than a guess.
+- **~209 entries carry low-confidence notes** — uncertain readings (split columns,
+  tile-edge fragments), each with the reason in its notes rather than a guess.
+  These are the first candidates for the joint review.
 - Spellings follow the poster as printed, including its misspellings; variants are
   noted on the affected records.
 
